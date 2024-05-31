@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ivan Kobylañsky</h1>
 <h3 align="center">FrontEnd Web Developer</h3>
 
-Hola! Mi nombre es Ivan Kobylañsky y disfruto creando cosas que viven en Internet. Mi interés en el desarrollo web comenzó en el 2020, tuve la posibilidad de estudiar en el Bootcamp de SoyHenry y ser Full-Stack developer, a su vez hice varios cursos en OpenBootcamp y FreeCodeCamp. Al descubrir este mundo no dude en convertirme en Front-end developer, la capacidad de crear cosas es increible! Está en mí ir por aquellas cosas que quiero. Confió en el camino que estoy siguiendo y en mi proceso!
+Desarrollador front-end de aplicaciones web y móviles, siempre en busca de nuevos aprendizajes. Tengo
+sólidos conocimientos técnicos y excelentes habilidades para resolver problemas. Mi curiosidad y pasión
+por la tecnología me impulsan a aprender constantemente y mejorar mis habilidades. Mi objetivo es
+utilizar mis habilidades y conocimientos para crear soluciones innovadoras y eficientes que añadan
+valor. Creo firmemente en el trabajo en equipo y la colaboración para alcanzar objetivos y superar retos
 
-- 📝 Mi portfolio [https://portfolio-sigma-amber.vercel.app/](https://portfolio-sigma-amber.vercel.app/)
+- 📝 Mi portfolio [https://ivokoby.vercel.app/](https://ivokoby.vercel.app/)
 
 - 📫 Contactame! **ivokoby@gmail.com**
 
