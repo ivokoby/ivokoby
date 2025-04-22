@@ -13,5 +13,5 @@ valor. Creo firmemente en el trabajo en equipo y la colaboración para alcanzar 
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivan kobylañsky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan kobylañsky" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivokoby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan kobylañsky" height="30" width="40" /></a>
 </p>
